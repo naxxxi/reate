@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-printf("2nd life is fried egg");
+printf("4th life is truly half fried egg");
 
 return 0;
 
